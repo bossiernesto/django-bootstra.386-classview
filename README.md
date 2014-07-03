@@ -3,7 +3,7 @@ Django Bootstra.386 Boilerplate
 
 Django Bootstra.386 template project with class view feature, based on the BOOTSRA.386 project
 
-Current stable version: 0.0.1
+Current stable version: 0.0.2
 
 ## Introduction
 
