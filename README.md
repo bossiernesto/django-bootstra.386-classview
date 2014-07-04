@@ -5,6 +5,9 @@ Django Bootstra.386 template project with class view feature, based on the BOOTS
 
 Current stable version: 0.0.4
 
+# [Demo Link](http://django-bootstra-386-classview.herokuapp.com/)
+
+
 ## Introduction
 
 This project makes you to create a simple django project with Bootstra.386 with minimal effort and with some common utils
