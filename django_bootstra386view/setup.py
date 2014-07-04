@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 #define variables for setup.py
 __author__ = 'Ernesto Bossi'
-__version__ = "0.0.2"
+__version__ = "0.0.4"
 
 __dir__ = os.path.dirname(os.path.abspath(__file__))
 templates_dir = os.path.join(__dir__, "django_bootstra386view_app", "management", "commands", "templates")
